@@ -1,2 +1,2 @@
-# DSA
-Data Structures and Algorithms👽
+#DSA
+Just Some DSA🧘‍♂️
